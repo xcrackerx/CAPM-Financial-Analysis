@@ -1,10 +1,19 @@
-# Capital Asset Pricing Model
+<h1 align="center">
+    Capital Asset Pricing Model
+</h1>
 
-- The ![CAPM Financial Analysis](https://capm-finance.streamlit.app/) project is a Python-based implementation of the Capital Asset Pricing Model. 
+## About
+- The *CAPM Financial Analysis* project is a Python-based implementation of the Capital Asset Pricing Model. 
 - CAPM is a formula that helps investors calculate how much risk they're taking when they invest in a stock, based on the risk-free rate, the equity risk premium, and the stock's beta. 
-- The application uses libraries such as `Pandas, `NumPy, `Streamlit, and `Plotly, to gather stock data from Yahoo Finance and perform calculations to determine expected returns.
+- The application uses libraries such as `Pandas`, `NumPy`, `Streamlit`, and `Plotly`, to gather stock data from Yahoo Finance and perform calculations to determine expected returns.
+
+---
+
+### [Live Website](https://capm-finance.streamlit.app/)
 
 ![capm-webpage](capm-file.png)
+
+---
 
 ## Usage
 The CAPM Financial Analysis application allows you to select a list of stocks and specify the number of years for investment. It then calculates the expected returns for each stock based on the CAPM formula and displays the results. Follow these steps:
